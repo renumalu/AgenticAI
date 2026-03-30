@@ -2,7 +2,7 @@
 
 > An AI assistant that understands voice commands, reasons about tasks, and automates workflows.
 
-Built for the AI for Good 2026 Hackathon 🌍
+
 
 ---
 
